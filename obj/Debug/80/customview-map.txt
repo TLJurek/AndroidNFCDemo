@@ -1,0 +1,16 @@
+cache-path;C:\Users\Tomasz\source\repos\tutorials\AndroidBeamDemo\obj\Debug\80\lp\8\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-cache-path;C:\Users\Tomasz\source\repos\tutorials\AndroidBeamDemo\obj\Debug\80\lp\8\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\Tomasz\source\repos\tutorials\AndroidBeamDemo\obj\Debug\80\lp\8\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+ImageView;obj\Debug\80\res\layout\customdialog.xml
+item;obj\Debug\80\res\menu\options.xml
+LinearLayout;obj\Debug\80\res\layout\customdialog.xml
+LinearLayout;obj\Debug\80\res\layout\main.xml
+menu;obj\Debug\80\res\menu\options.xml
+paths;C:\Users\Tomasz\source\repos\tutorials\AndroidBeamDemo\obj\Debug\80\lp\8\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+resources;obj\Debug\80\res\values\strings.xml
+resources;obj\Debug\80\res\xml\nfc_tech_filter.xml
+string;obj\Debug\80\res\values\strings.xml
+tech;obj\Debug\80\res\xml\nfc_tech_filter.xml
+tech-list;obj\Debug\80\res\xml\nfc_tech_filter.xml
+TextView;obj\Debug\80\res\layout\customdialog.xml
+TextView;obj\Debug\80\res\layout\main.xml

@@ -1,0 +1,9 @@
+Plugin.SimpleAudioPlayer
+Xamarin.Android.Arch.Core.Common
+Xamarin.Android.Arch.Lifecycle.Common
+Xamarin.Android.Arch.Lifecycle.Runtime
+Xamarin.Android.Support.Annotations
+Xamarin.Android.Support.Compat
+Xamarin.Android.Support.Core.Utils
+Xamarin.Android.Support.CustomTabs
+Xamarin.Essentials
